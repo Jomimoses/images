@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 512 288" style="fill: rgb(0, 0, 0);">
+ <title>Gradient</title>
+ <defs>
+  <linearGradient id="__id819_s4zn1ec57c" y2="100%">
+   <stop offset="0" style="stop-color: rgb(0, 242, 96);"></stop>
+   <stop offset="1" style="stop-color: rgb(33, 144, 255);"></stop>
+  </linearGradient>
+ </defs>
+ <g fill-rule="evenodd" id="__id820_s4zn1ec57c" style="fill: none;">
+  <rect height="288" id="__id821_s4zn1ec57c" width="512" x="0" y="0" style="fill: url(&quot;#__id819_s4zn1ec57c&quot;);"></rect>
+ </g>
+</svg>
