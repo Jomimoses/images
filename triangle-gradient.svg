@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="100.0" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0.0 0.0 120.0 100.0" width="120.0" zoomAndPan="magnify"><!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+ <title>Artboard</title>
+ <desc>Created with Sketch.</desc>
+ <defs>
+  <linearGradient id="linearGradient-1" x1="50%" x2="50%" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink" y2="100%">
+   <stop offset="0" stop-color="#00C4CC"/>
+   <stop offset="1" stop-color="#7C2AE8"/>
+  </linearGradient>
+ </defs>
+ <g fill="none" fill-rule="evenodd" id="Artboard">
+  <polygon fill="url(#linearGradient-1)" id="Triangle" points="60 0 120 100 0 100"/>
+ </g>
+</svg>
